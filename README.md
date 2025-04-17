@@ -10,7 +10,7 @@
 ![fritzing org](https://github.com/user-attachments/assets/3e004b71-13b9-46ed-91aa-760ec8839010)
 
 # Alternative Download Option
->If you prefer not to sign up or login or don't have time to follow the simple steps.<br />
+>~~If you prefer not to sign up or login or don't have time to follow the simple steps.<br />~~
 >You can use the direct download for your platform by clicking the links below
 
 >## [Windows (64-bit)](https://github.com/GGgonmei/Fritzing/releases/download/fritzing-1.0.4-win64/fritzing-1.0.4-win64.msi)
