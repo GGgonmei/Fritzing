@@ -1,10 +1,10 @@
-# How to Install Fritzing for Free
-> Go to the **[Fritzing website](https://fritzing.org/)** and sign up for an account. If you already have an account, simply log in.<br />
->After logging in, navigate to the **[Fritzing download page](https://fritzing.org/download/?paid)**. Alternatively, you can manually enter
+# How to Install Fritzing for Free (Alternative Download Option)
+> ~~Go to the **[Fritzing website](https://fritzing.org/)** and sign up for an account. If you already have an account, simply log in.<br />~~
+> ~~After logging in, navigate to the **[Fritzing download page](https://fritzing.org/download/?paid)**. Alternatively, you can manually enter~~
 >
->`https://fritzing.org/download/?paid`
+> ~~`https://fritzing.org/download/?paid`~~
 >
-> in your browser’s address bar.Once on the download page, select the appropriate version for your operating system **Windows (64-bit)**, **macOS**, or **Linux (64-bit)** and download Fritzing for free.<br />
+> ~~in your browser’s address bar.Once on the download page, select the appropriate version for your operating system **Windows (64-bit)**, **macOS**, or **Linux (64-bit)** and download Fritzing for free.<br />~~
 
 
 ![fritzing org](https://github.com/user-attachments/assets/3e004b71-13b9-46ed-91aa-760ec8839010)
