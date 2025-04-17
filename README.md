@@ -1,4 +1,4 @@
-# How to Install Fritzing for Free (Alternative Download Option)
+# How to Install Fritzing for Free (Use Alternative Download Option)
 > ~~Go to the **[Fritzing website](https://fritzing.org/)** and sign up for an account. If you already have an account, simply log in.<br />~~
 > ~~After logging in, navigate to the **[Fritzing download page](https://fritzing.org/download/?paid)**. Alternatively, you can manually enter~~
 >
