@@ -1,6 +1,7 @@
-> # TO DOWNLOAD THE LATEST VERSION, PLEASE GO TO **[ryanlua/fritzing-download.md](https://gist.github.com/ryanlua/fc2457d87641bb39754278b01a647526)**
+ # TO DOWNLOAD THE LATEST VERSION, PLEASE GO TO **[ryanlua/fritzing-download.md](https://gist.github.com/ryanlua/fc2457d87641bb39754278b01a647526)** <br> <br> :warning: DOWNLOAD AND USE IT AT YOUR OWN RISK
 
-# ~~How to Install Fritzing for Free (Use Alternative Download Option)~~ :warning: THIS REPOSITORIE ALREADY OUTDATED AND UNMAINTAINED
+
+># ~~How to Install Fritzing for Free (Use Alternative Download Option)~~ :warning: THIS REPOSITORIE ALREADY OUTDATED AND UNMAINTAINED
 
 > ~~Go to the **[Fritzing website](https://fritzing.org/)** and sign up for an account. If you already have an account, simply log in.<br />~~
 > ~~After logging in, navigate to the **[Fritzing download page](https://fritzing.org/download/?paid)**. Alternatively, you can manually enter~~
